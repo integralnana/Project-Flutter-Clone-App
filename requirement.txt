@@ -1,0 +1,8 @@
+แหล่งที่มา
+https://github.com/duffyishere/kakaotalk
+
+package ทีใช้ในโปรเจค
+- cupertino icons
+- font awesome flutter
+- flutter image slideshow
+- google fonts
